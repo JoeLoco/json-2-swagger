@@ -8,7 +8,7 @@ generate a swagger definittion comment.
 ### How to use
 
 ```bash
-node index.js 'curl http://dummy.restapiexample.com/api/v1/employees'
+node j2s.js 'curl http://dummy.restapiexample.com/api/v1/employees'
 ```
 
 ### To Do ###
